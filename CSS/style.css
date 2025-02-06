@@ -93,3 +93,9 @@ body {
 
     font-size: 35px;
 } 
+
+.sun span {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
